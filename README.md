@@ -15,6 +15,7 @@ I’m driven by a genuine curiosity to uncover the stories hidden in data and tu
 ##### My Skills 
 ![My Skills](https://skillicons.dev/icons?i=py,r,vscode,mysql,) 
 
+##### Making Visualizations on
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ##### Connect with me! 
