@@ -10,8 +10,14 @@
 
 
 ##### My Mission 
-I’m driven by a genuine curiosity to uncover the stories hidden in data and turn them into clear, actionable insights. With a keen interest in bridging the gap between technology and business, I aim to empower organizations to grow through data-driven strategies. Above all, I strive to keep exploring new ideas and using analytics to make a meaningful, positive difference wherever I can.
+I’m driven by a genuine curiosity to uncover the stories hidden in data and turn them into clear, actionable insights. I am passionate about bridging the gap between technology and business and aim to empower organizations to grow through data-driven strategies. Above all, I strive to keep exploring new ideas and using analytics to make a meaningful, positive difference wherever I can.
 
 ##### My Skills 
 ![My Skills](https://skillicons.dev/icons?i=py,r,vscode,mysql,)
+
+##### Connect with me! 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-chaudhari-a0b989269/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SAKSHCC2002@GMAIL.COM)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer image"/>
 
