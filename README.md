@@ -1,28 +1,6 @@
-<div style="background-color: #f9e0e9; padding: 20px; border-radius: 15px;">
-
-<div style="display: inline-block; border-right: 2px solid #d16b86; font-size: 26px; white-space: nowrap; overflow: hidden; color: #d16b86; animation: typing 3s steps(30, end), blink-caret 0.75s step-end infinite;">
-  Hello, it's Sakshi
+<div align="center" style="background-color: #f9e0e9; padding: 20px; border-radius: 15px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=D16B86&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Sakshi;I'm+a+Business%2FData+Analyst+Student" alt="Typing SVG" />
 </div>
 
-<br/>
 
-<div style="display: inline-block; border-right: 2px solid #d16b86; font-size: 20px; white-space: nowrap; overflow: hidden; color: #d16b86; animation: typing2 4s steps(40, end) 3s forwards, blink-caret 0.75s step-end infinite;">
-  I'm a Business/Data Analyst Student
-</div>
 
-</div>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes typing2 {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #d16b86; }
-}
-</style>
