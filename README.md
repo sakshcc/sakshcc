@@ -8,3 +8,11 @@
 
 
 
+
+##### My Mission 
+I’m driven by a genuine curiosity to uncover the stories hidden in data and turn them into clear, actionable insights. With a keen interest in bridging the gap between technology and business, I aim to empower organizations to grow through data-driven strategies. Above all, I strive to keep exploring new ideas and using analytics to make a meaningful, positive difference wherever I can.
+
+##### My Skills 
+![My Skills](https://skillicons.dev/icons?i=py,r,vscode,mysql,)
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,vscode,mysql&theme=light)](https://skillicons.dev)
